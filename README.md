@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ediko-eng
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Artificial Inteligent and also Python Language
 - 🌱 I’m currently learning Informatic at school
 - 💞️ I’m looking to collaborate on Codding
 - 📫 How to reach me ...
