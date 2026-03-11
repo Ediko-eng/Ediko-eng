@@ -1,37 +1,58 @@
-# ⟠ Ediko-eng — Futuristic Portfolio
+<!-- GitHub Profile README -->
 
-> Crafting interfaces and tools that feel like tomorrow — fast, minimal, and bold.
+<p align="center">
+  <img width="200" src="https://github.com/Noro18.png" alt="Profile Picture" style="border-radius:50%" />
+</p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Ediko-eng)](https://github.com/Ediko-eng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ediko-eng&layout=compact&theme=dark)](https://github.com/Ediko-eng)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ediko-eng&show_icons=true&theme=dark&count_private=true&hide_border=true)](https://github.com/Ediko-eng)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Ezequiel.;I+am+a+Software+Developer" />
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;AI+Enthusiast" />
+</p>
 
-▣ About
-I build sleek, future-facing tools and experiences — from lightweight web apps to linguistics tooling. My style: minimal UI, neon accents, and performance-first engineering.
+<h3 align="center">Full-Stack Developer | AI & Computer Vision Enthusiast | Passionate About Web & Open Source</h3>
 
-▣ Core focus
-- Morphology & NLP (deterministic/interpretible systems)
-- Modern web (React / Next.js / Tailwind)
-- Small, fast backends (Node / Serverless)
-- Developer ergonomics & automation
-
----
-
-▣ Skills (high-impact)
-Machine learning — KNN, SVM, and classical/ensemble methods · Python — Django, Flask, FastAPI, and core libraries (NumPy, pandas) · Software developer
+<p align="center">
+  <a href="https://github.com/Noro18">
+    <img src="https://img.shields.io/github/followers/Noro18?label=Follow&style=social" alt="Followers Badge"/>
+  </a>
+</p>
 
 ---
 
-▣ How I work
-- Small, composable modules — prefer building blocks over monoliths
-- Deterministic defaults + ML fallback where data-driven accuracy is required
-- Tests & CI for every change — automated deploys to Vercel / Netlify
+### 👨‍💻 About Me
+- 🔭 I’m currently working on AI, Web Apps & Computer Vision projects  
+- 🌱 I’m currently learning Advanced Python, Full-Stack Development & AI Chatbots  
+- 💬 Ask me about Programming, Tech, Startups & Trading  
+- ⚡ Fun fact: I love gaming and music 🎮🎵  
 
 ---
 
-▣ Want to explore my code?
-- Pin 3 repos on your profile for instant highlights.
-- Add screenshots to each repo README and link a live demo where possible.
-- For the Tetum morphology repo: include a small rule sample, example tokens, and evaluation script in /examples to show results quickly.
+
+### 📅 GitHub Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
+</p>
+
+---
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=dracula" />
+</p>
+<p align="center">
+<img src="https://gh-heat.anishroy.com/api/Noro18/svg?theme=purple&darkMode=true" />
+</p>
+
+<p align="center">
+  Made by Ezequiel
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
