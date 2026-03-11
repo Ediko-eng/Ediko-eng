@@ -85,59 +85,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<!-- Replace 'edmilson-fv' with your actual GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edmilson-fv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edmilson-fv&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilson-fv&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=edmilson-fv&theme=radical&no-frame=true&row=2&column=4" width="48%" />
-</p>
-
----
-
-<h2 align="center">📅 Contribution Calendar & Activity</h2>
-
-<!-- Replace 'edmilson-fv' with your actual GitHub username -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edmilson-fv&theme=dracula&hide_border=true&area=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://gh-heat.anishroy.com/api/edmilson-fv/svg?theme=purple&darkMode=true&hide_border=true" width="90%" />
-</p>
-
----
-
-<h2 align="center">💭 Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect & Collaborate</h2>
-
-<!-- Update these links with your actual profiles -->
-<p align="center">
-  <a href="https://github.com/edmilson-fv?tab=repositories"><img src="https://img.shields.io/badge/Check%20my%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:edmilson.valente@example.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter%20Feed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edmilson-fv&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile views counter" />
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" width="100%" />
   <sub><b>Made with ❤️ by Edmilson Fabio Valente • UNTL Engineering Student • Always building, always learning</b></sub>
