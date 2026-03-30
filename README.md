@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Python+%7C+TensorFlow+%7C+PyTorch;Django+%7C+PHP+%7C+JavaScript;Open+Source+Contributor;Gamer+%26+Music+Lover" alt="Interests SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Python+%7C+TensorFlow+%7C+PyTorch;Django+%7C+PHP+%7C+JavaScript;Gamer+%26+Music+Lover" alt="Interests SVG" />
 </p>
 
 ---
