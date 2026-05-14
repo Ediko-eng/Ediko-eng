@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td valign="top" width="60%">
-        <p>I'm a dedicated student at <b>UNTL's Faculty of Engineering, Science, and Technology</b>, majoring in <b>Informatics Engineering</b>. I'm a developer driven by a passion for building intelligent, elegant solutions that solve real-world problems.</p>
+        <p>I'm a dedicated student at <b>UNTL's Faculty of Engineering, Science, and Technology</b>, majoring in <b>Informatics Engineering</b>. I'm a junior developer driven by a passion for building intelligent, elegant solutions that solve real-world problems.</p>
         <ul style="list-style-type: none;">
           <li>🔭 <b>Currently specializing in</b> Web Development</li>
           <li>🌱 <b>Deeply immersed in</b> Machine Learning & Deep Learning</li>
