@@ -1,5 +1,5 @@
 <!-- Futuristic GitHub Profile README - Edmilson Fabio Valente (Ediko-eng) -->
-<!-- Designed with neon aesthetics, glassmorphism, and dynamic stats -->
+<!-- Designed with neon aesthetics, glassmorphism, dynamic stats, and a Pac-Man animation -->
 
 <p align="center">
   <a href="https://github.com/Ediko-eng">
@@ -110,6 +110,75 @@
     <img src="https://img.shields.io/badge/📁_VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a">
   </a>
 </p>
+
+---
+
+## 🕹️ Pac‑Man Developer: Eating Bugs & Code 🍽️
+
+<div align="center">
+  
+  <!-- Neon Pac-Man Animation (CSS only) -->
+  <div style="background: #0a0a1a; border-radius: 20px; padding: 20px; margin: 20px 0; box-shadow: 0 0 15px #00ffff, inset 0 0 10px rgba(0,255,255,0.2);">
+    <div style="font-family: 'Orbitron', monospace; color: #0ff; margin-bottom: 10px;">⚡ ACTIVE: HUNGRY FOR CODE ⚡</div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 5px; font-size: 28px; white-space: nowrap;">
+      <!-- Animated Pac-Man eating dots (🐍 = Python, 🐛 = Bug, ☕ = Coffee) -->
+      <style>
+        @keyframes eatDots {
+          0% { clip-path: polygon(0% 0%, 70% 0%, 100% 50%, 70% 100%, 0% 100%); }
+          50% { clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 100% 100%, 0% 100%); }
+          100% { clip-path: polygon(0% 0%, 70% 0%, 100% 50%, 70% 100%, 0% 100%); }
+        }
+        @keyframes movePacman {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(280px); }
+        }
+        @keyframes fadeDots {
+          0% { opacity: 1; transform: scale(1); }
+          100% { opacity: 0; transform: scale(0.2); }
+        }
+        .pacman {
+          width: 40px;
+          height: 40px;
+          background: #ffff00;
+          border-radius: 50%;
+          animation: eatDots 0.4s infinite linear, movePacman 4s infinite alternate ease-in-out;
+          box-shadow: 0 0 15px #ffff00;
+          margin-right: 10px;
+          display: inline-block;
+        }
+        .dot {
+          display: inline-block;
+          width: 12px;
+          height: 12px;
+          background: #ffffff;
+          border-radius: 50%;
+          margin: 0 5px;
+          box-shadow: 0 0 8px #0ff;
+          animation: fadeDots 0.3s infinite alternate;
+        }
+        .food-icon {
+          display: inline-block;
+          font-size: 28px;
+          margin: 0 6px;
+          animation: fadeDots 0.5s infinite alternate;
+          filter: drop-shadow(0 0 5px #0ff);
+        }
+      </style>
+      <div class="pacman"></div>
+      <span class="food-icon">🐍</span>
+      <span class="dot"></span>
+      <span class="food-icon">🐛</span>
+      <span class="dot"></span>
+      <span class="food-icon">☕</span>
+      <span class="dot"></span>
+      <span class="food-icon">💻</span>
+      <span class="dot"></span>
+      <span class="food-icon">🧠</span>
+    </div>
+    <div style="font-size: 12px; color: #ff44cc; margin-top: 15px;">← Pac‑man chasing Python 🐍, bugs 🐛, coffee ☕, code 💻 & AI 🧠 →</div>
+  </div>
+  
+</div>
 
 ---
 
