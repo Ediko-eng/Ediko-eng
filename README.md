@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Ediko-eng">
-    <img src="https://github.com/Ediko-eng.png" alt="Edmilson Fabio Valente" width="160" style="border-radius: 50%; border: 3px solid #0ff; box-shadow: 0 0 20px #0ff, 0 0 40px #0ff; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+    <alt="Edmilson Fabio Valente" width="160" style="border-radius: 50%; border: 3px solid #0ff; box-shadow: 0 0 20px #0ff, 0 0 40px #0ff; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
