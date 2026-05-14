@@ -116,12 +116,9 @@
 ## 🕹️ Pac‑Man Developer: Eating Bugs & Code 🍽️
 
 <div align="center">
-  
-  <!-- Neon Pac-Man Animation (CSS only) -->
   <div style="background: #0a0a1a; border-radius: 20px; padding: 20px; margin: 20px 0; box-shadow: 0 0 15px #00ffff, inset 0 0 10px rgba(0,255,255,0.2);">
     <div style="font-family: 'Orbitron', monospace; color: #0ff; margin-bottom: 10px;">⚡ ACTIVE: HUNGRY FOR CODE ⚡</div>
     <div style="display: flex; align-items: center; justify-content: center; gap: 5px; font-size: 28px; white-space: nowrap;">
-      <!-- Animated Pac-Man eating dots (🐍 = Python, 🐛 = Bug, ☕ = Coffee) -->
       <style>
         @keyframes eatDots {
           0% { clip-path: polygon(0% 0%, 70% 0%, 100% 50%, 70% 100%, 0% 100%); }
@@ -177,9 +174,7 @@
     </div>
     <div style="font-size: 12px; color: #ff44cc; margin-top: 15px;">← Pac‑man chasing Python 🐍, bugs 🐛, coffee ☕, code 💻 & AI 🧠 →</div>
   </div>
-  
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
