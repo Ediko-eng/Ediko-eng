@@ -85,10 +85,15 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏷️ **Tetum Morphology Detection** | NLP tool for Tetum language morphology analysis | Python, NLTK, TensorFlow |
-| 🎮 **Quiz: Millionaire** | Desktop quiz game | PyQt6, SQLite |
-| 📊 **HIV/AIDS Data Analysis** | Analysis of Timor-Leste HIV/AIDS indicators | Pandas, Matplotlib, Seaborn |
-| ✋ **Sign Language Classification** | KNN-based hand sign classifier | Scikit-learn, OpenCV |
+| [Profile README](https://github.com/Ediko-eng/Edmilson-Fabio-Valente) | Personal GitHub profile README with futuristic design | Markdown, HTML/CSS |
+| [Notes](https://github.com/Ediko-eng/Notes) | Simple and intuitive note-taking application | JavaScript, Node.js |
+| [Quiz: How to be a Millionaire](https://github.com/Ediko-eng/Quiz-How-to-be-a-Millionare) | Interactive quiz game with millionaire-style questions | Python, PyQt6 |
+| [Data Science](https://github.com/Ediko-eng/Data-Scince) | Exploratory data analysis and visualization projects | Python, Pandas, Matplotlib |
+| [Calculator App](https://github.com/Ediko-eng/calculator-app) | Basic calculator with modern UI | HTML, CSS, JavaScript |
+| [Sign Language Classification](https://github.com/Ediko-eng/SIGNLANGUAGE-CLASSIFICATION) | KNN-based hand sign classifier using computer vision | Python, OpenCV, scikit-learn |
+| [My Portfolio](https://github.com/Ediko-eng/My-Portofolio) | Personal portfolio website showcasing projects | HTML, CSS, JavaScript |
+| [Android Project](https://github.com/Ediko-eng/traballu_Android) | Android mobile app for academic assignment | Java, Android SDK |
+| [WEBPOS](https://github.com/Ediko-eng/WEBPOS) | Web-based Point of Sale system for small businesses | PHP, MySQL, JavaScript |
 
 </div>
 
@@ -144,4 +149,4 @@
   <b>Made with ❤️ by Edmilson Fabio Valente · UNTL Engineering Student · 2026</b><br>
   <i>“The future is AI, and I'm coding it.”</i><br>
   <img src="https://komarev.com/ghpvc/?username=Ediko-eng&label=Profile%20Views&color=ff00ff&style=flat-square" />
-</p>v
+</p>
