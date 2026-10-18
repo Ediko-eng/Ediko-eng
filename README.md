@@ -148,5 +148,4 @@
 <p align="center">
   <b>Made with ❤️ by Edmilson Fabio Valente · UNTL Engineering Student · 2026</b><br>
   <i>“The future is AI, and I'm coding it.”</i><br>
-  <img src="https://komarev.com/ghpvc/?username=Ediko-eng&label=Profile%20Views&color=ff00ff&style=flat-square" />
 </p>
